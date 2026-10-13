@@ -1,6 +1,6 @@
 <div align="center">
 
-# Agen tMemory
+# Agent Memory
 
 ### One private memory for every AI you use.
 
