@@ -1,4 +1,4 @@
-# Your AgentMemory
+# Agent Memory
 
 Persistent memory for your AI agents.
 
