@@ -7,7 +7,7 @@
 Give your AI tools persistent project context without repeatedly explaining
 your project from scratch.
 
-[Website](https://youragentmemory.com) •
+[Agent Memory](https://youragentmemory.com) •
 [Download](https://youragentmemory.com/download) •
 [Documentation](https://youragentmemory.com/docs) •
 [Pricing](https://youragentmemory.com/pricing)
