@@ -1,4 +1,4 @@
-# YourAgentMemory
+# Your AgentMemory
 
 Persistent memory for your AI agents.
 
@@ -6,7 +6,7 @@ Persistent memory for your AI agents.
 
 ## About
 
-YourAgentMemory helps AI agents maintain persistent context and memory
+Your AgentMemory helps AI agents maintain persistent context and memory
 across conversations and workflows.
 
 ## Features
