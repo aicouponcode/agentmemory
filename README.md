@@ -1,4 +1,4 @@
-# AgentMemory
+# Agent Memory
 
 One private memory for every AI you use.
 
