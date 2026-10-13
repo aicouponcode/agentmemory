@@ -1,26 +1,27 @@
-# Agent Memory
+# AgentMemory
 
-Persistent memory for your AI agents.
+One private memory for every AI you use.
 
-🌐 Website: https://youragentmemory.com
+AgentMemory gives your AI tools persistent project memory, helping you
+carry context across AI platforms and conversations.
 
-## About
+## Download
 
-Your AgentMemory helps AI agents maintain persistent context and memory
-across conversations and workflows.
+AgentMemory is currently available for:
 
-## Features
+- 🍎 macOS
+- 🪟 Windows
 
-- Persistent AI agent memory
-- Easy integration
-- Cross-session context
-- Built for AI agents and developers
+👉 **Download AgentMemory:** https://youragentmemory.com/download
 
-## Get Started
+A verified AgentMemory account and active subscription are required
+to access available downloads.
 
-Visit https://youragentmemory.com to get started.
+## Installation
 
-## Links
+Step-by-step installation guides for macOS and Windows are available
+on the AgentMemory website.
 
-- Website: https://youragentmemory.com
-- Documentation: https://youragentmemory.com/docs
+## Website
+
+https://youragentmemory.com
